@@ -6,7 +6,7 @@ I'm **Oliwier**, a dedicated developer from **Gdańsk, Poland**. With a passion 
 
 ### 👨‍💻 About Me:
 - **Name:** Oliwier  
-- **Age:** 1. 
+- **Age:** 1..? 
 - **Location:** Gdańsk, Poland  
 - **Profession:** Developer with expertise across a variety of programming languages and platforms  
 - **Languages I Code In:** JavaScript, SQL, C#, Lua
